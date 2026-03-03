@@ -1,8 +1,10 @@
-# IITC Plugin Template
+# IITC Bookmarks 2
 
-CHANGEME
+The core IITC bookmarks rewritten to modern classes.
 
-`todo`: Add your content
+### Read more...
+
+https://elkuku.github.io/iitc-kuku-bookmarks/
 
 ----
 Made with :heart: and the [IITC Plugin Kit](https://github.com/McBen/IITCPluginKit)
